@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../common/include/hal.h
+
+../src/include/hal_aux_in_status_check.h
+hal.h
+../src/include/hal.h
+
+/mnt/share/aux_av_in/hal_zjc/svn-co/source/aux_in_status_check/src/aux_in_status_check_csratlas7.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+fcntl.h
+-
+linux/input.h
+-
+signal.h
+-
+hal_aux_in_status_check.h
+/mnt/share/aux_av_in/hal_zjc/svn-co/source/aux_in_status_check/src/hal_aux_in_status_check.h
+unistd.h
+-
+stdlib.h
+-
+pthread.h
+-
+

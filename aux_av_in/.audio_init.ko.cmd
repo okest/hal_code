@@ -1,0 +1,1 @@
+cmd_/mnt/share/aux_av_in/audio_init.ko := /opt/poky/1.7.3/sysroots/x86_64-pokysdk-linux/usr/bin/arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id -z noexecstack -z relro -z now  -o /mnt/share/aux_av_in/audio_init.ko /mnt/share/aux_av_in/audio_init.o /mnt/share/aux_av_in/audio_init.mod.o
