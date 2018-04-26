@@ -1,6 +1,0 @@
-/*
- * sed插入示例：
- * 		打开项目	--->	option( PRJ_RN4Y56 "RN4Y56 project" ON )
- * 		关闭项目	--->	option( PRJ_RN4Y56 "RN4Y56 project" OFF )
- */
-

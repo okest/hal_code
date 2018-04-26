@@ -1,2 +1,0 @@
-/mnt/share/aux_av_in/hal_zjc/svn-co/source/aux_in_status_check/bin/hal_aux_in_status_check.h
-/mnt/share/aux_av_in/hal_zjc/svn-co/source/aux_in_status_check/bin/libhal_aux_in_status_check_default.so

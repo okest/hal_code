@@ -1,2 +1,0 @@
-/mnt/share/aux_av_in/hal_zjc/svn-co/source/av_in/bin/hal_av_in.h
-/mnt/share/aux_av_in/hal_zjc/svn-co/source/av_in/bin/libhal_av_in_default.so
